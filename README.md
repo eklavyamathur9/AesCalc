@@ -2,7 +2,7 @@
 
 AesCalc is a simple, stylish web-based calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations with an intuitive interface and attractive design.
 
-## ✨ Features
+## ✨ Features 
 
 - Responsive design for desktop and mobile  
 - Easy-to-use button interface  
